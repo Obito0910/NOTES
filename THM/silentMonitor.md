@@ -1,4 +1,4 @@
-# silentMonitor — Detailed Notes (English / GitHub)
+# silentMonitor — Detailed Notes  
 
 **Target:** 10.49.162.6
 **Mission type:** From web exploitation all the way to root — a combination of SQLi, Command Injection, and KeePass vault cracking.
