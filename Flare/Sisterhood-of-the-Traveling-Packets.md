@@ -1,4 +1,4 @@
-# Sisterhood of the Traveling Packets — Detailed Notes (English)
+# Sisterhood of the Traveling Packets — Detailed Notes 
 
 ## What the challenge was, basic understanding
 
