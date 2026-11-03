@@ -1,4 +1,4 @@
-# Connected (HTB) — Detailed Notes (English)
+# Connected (HTB) — Detailed Notes
 
 **Target:** 10.129.245.100 (connected.htb) **Box type:** FreePBX-based Linux machine
 
