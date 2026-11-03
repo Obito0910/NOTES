@@ -1,4 +1,4 @@
-# Mr. Robot CTF — Detailed Notes (English)
+# Mr. Robot CTF — Detailed Notes  
 
 **By:** Obito Uchiha — Team AKATSUKI **Target:** `10.48.190.143`
 
